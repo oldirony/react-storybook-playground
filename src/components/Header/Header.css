@@ -1,0 +1,6 @@
+@import "../../styles/global.css";
+
+.header {
+	background: #000;
+	color: white;
+}

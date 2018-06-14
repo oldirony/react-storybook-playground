@@ -1,0 +1,7 @@
+@import "../../styles/global.css";
+
+.footer {
+	margin-top: auto;
+	background: #527580;
+	color: white;
+}
