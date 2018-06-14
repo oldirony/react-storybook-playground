@@ -1,6 +1,8 @@
 @import "../../styles/global.css";
 
 .header {
-	background: #000;
+	background: #666;
+	padding-top: 10px;
 	color: white;
+	text-align: center;
 }
