@@ -184,8 +184,8 @@ module.exports = {
                         minimize: true,
                         sourceMap: shouldUseSourceMap,
                         module: true,
-                        localIdentName: '[name]__[local]__[hash:base64:5]'
-                        },
+                        localIdentName: '[name]__[local]__[hash:base64:5]',
+                        include: /flexboxgrid/
                       },
                     },
                     {
